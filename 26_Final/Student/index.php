@@ -26,7 +26,7 @@
             <div id="footer" class="cf">
 
             <div class="column three">
-                <strong>Phone</stong>
+                <strong>Phone</strong>
                 808.529.3819
             </div><!--Comlun ends-->
 
