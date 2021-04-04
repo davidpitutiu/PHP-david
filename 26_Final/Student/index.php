@@ -28,14 +28,14 @@
             <div class="column three">
                 <strong>Phone</strong>
                 808.529.3819
-            </div><!--Comlun ends-->
+            </div> <!--Comlun ends-->
 
             <div class="column three">
                 <strong>Location</strong>
                 123 Kapiolani Boulevard<br>
 					Honolulu, HI
 
-            </div><!--Comlun ends-->
+            </div> <!--Comlun ends-->
 
             <div class="column three last">
             <strong>Hours</strong>
@@ -50,13 +50,14 @@
 					
 					<br>
 
-            </div><!--Comlun ends-->
+            </div> <!--Comlun ends-->
 
-            </div><!--Footer ends-->
+            </div> <!--Footer ends-->
 
-        </div><!--Content ends -->
+        </div> <!--Content ends -->
 
-    </div> <!-- Wrapper ends -->
+    </div>  <!-- Wrapper ends -->
     
 </body>
+
 </html>
