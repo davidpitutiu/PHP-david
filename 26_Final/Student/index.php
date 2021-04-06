@@ -2,25 +2,38 @@
 <html lang="en">
 <head>
     <link href="/assets/styles.css" rel="stylesheet">
-    
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body id="final-exemple">
+    <?php
+        $a=5;
+    ?>
 
-<div class="wrapper">
-    <div id="banner">
-    </div><!--Banner ends-->
-    <div id="nav">
-    </div><!--Nav ends -->
-    <div class="content">
-        <div id="footer" class="cf">
-        <div class="column three">
-            <strong>Phone</strong>
-            808.529.3819
-        </div> <!--Comlun ends-->
+    <div class="wrapper">
+
+        <div id="banner">
+
+        </div><!--Banner ends-->
+
+        <div id="nav">
+
+        </div><!--Nav ends -->
+
+        <div class="content">
+
+            <div id="footer" class="cf">
+
+            <div class="column three">
+
+                <strong>
+                    Phone
+                </strong>
+                    808.529.3819
+            </div> <!--Comlun ends-->
         <div class="column three">
             <strong>Location</strong>
             123 Kapiolani Boulevard<br>
