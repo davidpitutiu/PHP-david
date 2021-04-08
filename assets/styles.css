@@ -110,6 +110,9 @@ sup {
 
 /* Layout */
 
+#banner img{
+	width:100%;
+}
 .wrapper {
 	position: relative;
 	width: 620px;
