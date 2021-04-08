@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="/assets/styles.css" rel="stylesheet">
+    <link href="../../assets/styles.css" rel="stylesheet">
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
